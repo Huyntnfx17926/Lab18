@@ -1,0 +1,20 @@
+.bg-img1{
+    background-color: #000;
+    background-size: cover;
+    height: 100vh;
+    background-image: url(2-20.jpg);
+}
+
+.bg-img2{
+    background-color: #000;
+    background-size: cover;
+    height: 100vh;
+    background-image: url(81a67f68a0c2b54afd22f2279b921c7a.png);
+}
+
+.bg-img3{
+    background-color: #000;
+    background-size: cover;
+    height: 100vh;
+    background-image: url(hinh-nen-may-cuc-dep.jpg);
+}
